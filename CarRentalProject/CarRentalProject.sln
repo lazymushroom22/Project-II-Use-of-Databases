@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalProject", "CarRentalProject\CarRentalProject.csproj", "{38DE36F0-E394-4765-80A0-F258954B23BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalProject", "CarRentalProject\CarRentalProject.csproj", "{38DE36F0-E394-4765-80A0-F258954B23BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRentalProject.ApplicationLogic", "CarRentalProject.ApplicationLogic\CarRentalProject.ApplicationLogic.csproj", "{9AB1FB0F-3DDF-47FE-8564-0B37776A99D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalProject.DataAccess2", "CarRentalProject.DataAccess2\CarRentalProject.DataAccess2.csproj", "{C86FFD44-060D-444D-9DFF-2B9F54259385}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{38DE36F0-E394-4765-80A0-F258954B23BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38DE36F0-E394-4765-80A0-F258954B23BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38DE36F0-E394-4765-80A0-F258954B23BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB1FB0F-3DDF-47FE-8564-0B37776A99D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB1FB0F-3DDF-47FE-8564-0B37776A99D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB1FB0F-3DDF-47FE-8564-0B37776A99D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB1FB0F-3DDF-47FE-8564-0B37776A99D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86FFD44-060D-444D-9DFF-2B9F54259385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86FFD44-060D-444D-9DFF-2B9F54259385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86FFD44-060D-444D-9DFF-2B9F54259385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86FFD44-060D-444D-9DFF-2B9F54259385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
