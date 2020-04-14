@@ -4,13 +4,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using CarRentalProject.ApplicationLogic.Services;
 using CarRentalProject.Models.Users;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CarRentalProject.Controllers
 {
-    //[Authorize]
+    [Authorize]
     public class UserController : Controller
     {
         private readonly UserManager<IdentityUser> userManager;

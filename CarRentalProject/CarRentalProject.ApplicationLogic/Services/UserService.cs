@@ -46,5 +46,18 @@ namespace CarRentalProject.ApplicationLogic.Services
                              .Where(booking => booking.User.UserId == userIdGuid)
                              .AsEnumerable();
         }
+        public User CreateUser(string userId, string firstname, string lastname, string email)
+        {
+            var user = new User
+            {
+                UserId = Guid.Parse(userId),
+                FirstName = firstname,
+                LastName = lastname,
+                Email = email
+
+            };
+            userRepository.Add(user);
+            return user;
+        }
     }
 }

@@ -17,7 +17,7 @@ namespace CarRentalProject.DataAccess2
         public User GetUserByUserId(Guid userId)
         {
             return dbContext.User
-                            .Where(User => User.Id == userId)
+                            .Where(User => User.UserId == userId)
                             .SingleOrDefault();
         }
     }

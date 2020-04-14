@@ -16,7 +16,7 @@ namespace CarRentalProject.DataAccess
         }
         public T Add(T itemToAdd)
         {
-            var entity = dbContext.Add<T>(itemToAdd);
+            var entity = dbContext.Set<T>().Add(itemToAdd);
             dbContext.SaveChanges();
             return entity.Entity;
         }

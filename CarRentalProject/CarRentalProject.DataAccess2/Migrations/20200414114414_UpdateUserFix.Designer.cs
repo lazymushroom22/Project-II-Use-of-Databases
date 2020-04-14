@@ -4,14 +4,16 @@ using CarRentalProject.DataAccess;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CarRentalProject.DataAccess2.Migrations
 {
     [DbContext(typeof(CarRentalProjectDbContext))]
-    partial class CarRentalProjectDbContextModelSnapshot : ModelSnapshot
+    [Migration("20200414114414_UpdateUserFix")]
+    partial class UpdateUserFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
