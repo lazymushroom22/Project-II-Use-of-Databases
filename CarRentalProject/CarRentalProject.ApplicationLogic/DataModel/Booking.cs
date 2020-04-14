@@ -10,7 +10,7 @@ namespace CarRentalProject.ApplicationLogic.DataModel
         public string Name { get; set; }
         public string Description { get; set; }
         public User User { get; set; }
-        public ICollection<Car> Cars { get; set; }
+        public Car Cars { get; set; }
         public ICollection<CarDetails> CarDetails { get; private set; }
         public ICollection<Testimonies> Testimonies { get; private set; }
     }

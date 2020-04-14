@@ -5,7 +5,8 @@ using System.Text;
 
 namespace CarRentalProject.ApplicationLogic.Abstractions
 {
-    public interface IUserRepository : iRepository<User>
+    public interface IUserRepository : IRepository<User>
     {
+        User GetUserByUserId(Guid userId);
     }
 }

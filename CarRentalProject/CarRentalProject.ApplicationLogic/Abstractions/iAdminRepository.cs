@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CarRentalProject.ApplicationLogic.Abstractions
 {
-    public interface IAdminRepository : iRepository<Admin>
+    public interface IAdminRepository : IRepository<Admin>
     {
     }
 }

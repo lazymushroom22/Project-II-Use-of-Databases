@@ -5,8 +5,8 @@ using System.Text;
 
 namespace CarRentalProject.ApplicationLogic.Abstractions
 {
-    public interface IBookingRepository : iRepository<Booking>
+    public interface iBookingRepository : IRepository<Booking>
     {
-        CarDetails GetCarDetails(Car car);
+        CarDetails GetCarDetails(Guid carId, Car car);
     }
 }

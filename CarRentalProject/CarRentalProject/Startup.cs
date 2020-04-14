@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CarRentalProject.ApplicationLogic.Abstractions;
 using CarRentalProject.DataAccess;
+using CarRentalProject.DataAccess2;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,6 +27,8 @@ namespace CarRentalProject
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<iBookingRepository, BookingRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
             services.AddControllersWithViews();
             var connection = @"Server=(localdb)\mssqllocaldb;Database=PhoneCompareDb;Trusted_Connection=True;ConnectRetryCount=0";
             services.AddDbContext<CarRentalProjectDbContext>
