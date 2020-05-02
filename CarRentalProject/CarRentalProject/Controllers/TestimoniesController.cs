@@ -26,7 +26,7 @@ namespace CarRentalProject.Controllers
         public ActionResult Index()
         {
             var machines = TestimoniesRepository.GetTestimonyDescription();
-            return View(machines);
+            return View();
         }
 
     }
