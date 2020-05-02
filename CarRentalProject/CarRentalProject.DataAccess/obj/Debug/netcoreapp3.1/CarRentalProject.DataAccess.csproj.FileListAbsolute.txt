@@ -1,0 +1,14 @@
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.dll
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.AssemblyInfo.cs
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess.deps.json
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess.runtimeconfig.json
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess.runtimeconfig.dev.json
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess.dll
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess.pdb
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.pdb
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.csproj.CopyComplete
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.dll
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.pdb
+C:\Users\ANDREI\source\repos\Project-II-Use-of-Databases\CarRentalProject\CarRentalProject.DataAccess\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess.genruntimeconfig.cache
