@@ -1,0 +1,15 @@
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.deps.json
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.runtimeconfig.json
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.runtimeconfig.dev.json
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.dll
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.pdb
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.dll
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.pdb
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.csproj.CopyComplete
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.dll
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.pdb
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.DataAccess2\obj\Debug\netcoreapp3.1\CarRentalProject.DataAccess2.genruntimeconfig.cache

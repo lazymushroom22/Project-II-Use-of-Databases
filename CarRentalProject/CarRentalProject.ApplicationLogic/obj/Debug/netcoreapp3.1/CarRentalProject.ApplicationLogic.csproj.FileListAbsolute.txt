@@ -1,0 +1,12 @@
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.deps.json
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.runtimeconfig.json
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.runtimeconfig.dev.json
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.dll
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\bin\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.pdb
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.AssemblyInfo.cs
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.dll
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.pdb
+C:\Users\Mihai\Desktop\Project-II-Use-of-Databases-master\CarRentalProject\CarRentalProject.ApplicationLogic\obj\Debug\netcoreapp3.1\CarRentalProject.ApplicationLogic.genruntimeconfig.cache
