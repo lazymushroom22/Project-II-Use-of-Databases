@@ -1,0 +1,12 @@
+﻿@model CarRentalProject.Models.Users.UserBookingViewModel;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@foreach(var booking in Model.Bookings)
+{
+    <div>
+        @booking.Name
+    </div>
+}
