@@ -7,5 +7,6 @@ namespace CarRentalProject.ApplicationLogic.Abstractions
 {
     public interface IAdminRepository : IRepository<Admin>
     {
+         Admin GetAdminByAdminId(Guid adminId);
     }
 }
